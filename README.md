@@ -1,4 +1,4 @@
-![Alt text]([image link](https://github.com/mahmud8bd/class_one/blob/main/m8bd.jpg))
+![My Image](/class_one/blob/main/m8bd.jpg)
 ### Hi there 👋
 
 
