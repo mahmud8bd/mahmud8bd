@@ -1,4 +1,4 @@
-![My Image](https://github.com/mahmud8bd/class_one/blob/main/hardest-programming-language.png)
+![My Image](https://github.com/mahmud8bd/mahmud8bd/blob/main/hardest-programming-language.png)
 ### Hi there 👋
 
 
